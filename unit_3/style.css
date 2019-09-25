@@ -1,0 +1,21 @@
+body {
+	background-color: darkseagreen;
+}
+h1
+{font-family: "Big Caslon", sans-serif;
+color: Black;
+font-size: 60px;
+}
+p {
+	font-family: Geneva, sans-serif;
+	color: ghostwhite;
+}
+#slogan {font-family: "Big Caslon", sans-serif;
+color: ghostwhite;
+font-style: italic;
+font-size: 24px;
+}
+ul {
+	color: ghostwhite;
+	font-family:  Geneva, sans-serif;
+}
