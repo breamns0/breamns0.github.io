@@ -13,12 +13,14 @@ p {
 	font-family: "Josefin Slab", serif;
 	color: ghostwhite;
 }
-#slogan {font-family: "Big Caslon", sans-serif;
+#slogan {font-family: "Josefin Slab", serif;
 color: ghostwhite;
 font-style: italic;
-font-size: 24px;
+font-size: 48px;
 }
+#liststyle
 ul {
 	color: ghostwhite;
 	font-family: "Josefin Slab", serif;
+	font-size: 48px;
 }
