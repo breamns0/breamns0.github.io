@@ -12,6 +12,7 @@ font-size: 60px;
 p {
 	font-family: "Josefin Slab", serif;
 	color: ghostwhite;
+	font-size: 24;
 }
 #slogan {font-family: "Josefin Slab", serif;
 color: ghostwhite;
@@ -21,5 +22,5 @@ font-size: 48px;
 ul {
 	color: ghostwhite;
 	font-family: "Josefin Slab", serif;
-	font-size: 48px;
+	font-size: 24px;
 }
